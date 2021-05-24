@@ -1,7 +1,7 @@
-const ownerNumber = ["5567996005372@s.whatsapp.net"] 
+const ownerNumber = ["556796005372@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '5567996005372' 
+const OriginalOwner = '556796005372' 
 // mude para seu numero
 
 var gimagenotregister = true
