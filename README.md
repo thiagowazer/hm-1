@@ -35,7 +35,7 @@ O Hidra-bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/t
 
 ```
 git clone https://github.com/hidrabotz/hm
-cd Brizas-bot
+cd hm
 bash install.sh
 npm install
 
